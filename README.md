@@ -1,1 +1,1 @@
-# Amazon-VS-Flipkart-
+# Amazon-VS-Flipkart
